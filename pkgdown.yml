@@ -1,0 +1,11 @@
+pandoc: '2.5'
+pkgdown: 1.6.1
+pkgdown_sha: ~
+articles:
+  case_study: case_study.html
+  using_cRegulome: using_cRegulome.html
+last_built: 2021-07-19T01:12Z
+urls:
+  reference: https://docs.ropensci.org/cRegulome/reference
+  article: https://docs.ropensci.org/cRegulome/articles
+
