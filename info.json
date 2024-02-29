@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "b3d7fba6f3a8e688b0b7a90aae20ac1677fdb7f0",
+    "author": "MahShaaban <mahmoud.s.fahmy@students.kasralainy.edu.eg>",
+    "time": "2020-04-04 08:17:42",
+    "files": 5,
+    "merge": false,
+    "message": "updated docs and version number\n"
+  },
+  "repo": "https://github.com/ropensci/cRegulome",
+  "pkg": "cRegulome"
+}
